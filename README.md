@@ -2,3 +2,6 @@
 
 
 Predict 1-5 stars rating based on user reviews
+
+
+https://www.kaggle.com/c/cs506-fall-2020/overview
